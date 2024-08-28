@@ -1,6 +1,6 @@
 Name:		texlive-atkinson
-Version:	64385
-Release:	2
+Version:	71048
+Release:	1
 Summary:	Support for the Atkinson Hyperlegible family of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atkinson
