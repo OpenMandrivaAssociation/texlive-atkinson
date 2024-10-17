@@ -3,7 +3,7 @@ Version:	71048
 Release:	1
 Summary:	Support for the Atkinson Hyperlegible family of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atkinson
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/atkinson
 License:	lppl other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atkinson.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atkinson.doc.r%{version}.tar.xz
